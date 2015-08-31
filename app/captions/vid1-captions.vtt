@@ -1,21 +1,66 @@
 WEBVTT FILE
 
 0
-00:00:00.500 --> 00:00:03.000
-Hello World!
+00:00:00.000 --> 00:00:01.200 
+Hey there! 
 
 1
-00:00:03.000 --> 00:00:06.000
-This is simply a test
+00:00:01.200 --> 00:00:02.500 
+Before we get started, 
 
 2
-00:00:06.000 --> 00:00:09.000
-Whatchu know bout this
+00:00:02.500 --> 00:00:05.200 
+we’ll quickly go over our learning objectives.
 
 3
-00:00:11.000 --> 00:00:15.000
-See how I left that blank?
+00:00:05.200 --> 00:00:07.000 
+In the following learning modules, 
 
 4
-00:00:15.000 --> 00:00:18.500
-[End captions meow]
+00:00:07.000 --> 00:00:11.200 
+we’ll be covering a version control system called Git. 
+
+5
+00:00:11.200 --> 00:00:13.500 
+We’ll talk about the role version control plays 
+
+6
+00:00:13.500 --> 00:00:15.200 
+in a development workflow,
+
+7
+00:00:15.200 --> 00:00:16.500 
+why it’s important, 
+
+8
+00:00:16.500 --> 00:00:18.800 
+and how you can get started. 
+
+9
+00:00:18.800 --> 00:00:22.700 
+In addition to Git, we’ll also be introducing Github. 
+
+10
+00:00:22.700 --> 00:00:24.733
+We’ll discuss the importance of including Github 
+
+11
+00:00:24.733  --> 00:00:26.000 
+in your development workflow, 
+
+12
+00:00:26.000 --> 00:00:28.400 
+exploring how you can collaborate with others 
+
+13
+00:00:28.400 --> 00:00:31.900 
+and backing up your projects through Github’s services. 
+
+14
+00:00:31.900 --> 00:00:33.000 
+Sound fun? 
+
+15
+00:00:33.000 --> 00:00:35.367 
+Let’s go!
+
