@@ -6,7 +6,7 @@ var app = app || {};
     _events = $(_events);
 
     app.App = function(){
-        this.url = "../data/playlist.json";
+        this.url = "data/playlist.json";
         this.$video = $('#video-container');
         this.$playlist = $('#playlist');
 
