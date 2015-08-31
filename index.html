@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8">
+    <title>Gitting Started</title>
+
+    <link rel="stylesheet" href="styles/vendor.css">
+
+    <link rel="stylesheet" href="styles/main.css">
+    
+  </head>
+
+  <body>
+    <div class="container">
+      <h1>Gitting Started</h1>
+      <div id="video-container" class="video-container">
+
+      </div>
+      <div class="panel panel-default">
+        <div class="panel-heading">
+          <h4>Git &amp; Github</h4>
+        </div>
+
+        <ul id="playlist" class="list-group">
+        </ul>
+
+      </div>
+    </div> 
+
+    <script src="scripts/main.js"></script>
+
+    <script type="text/template" id="player-template">
+      <video controls class="video-player" width="1280" height="720">
+        <source src="<%= source %>" type="<%= type %>"/>      
+        <track src="<%= captions.src %>" srclang="<%= captions.srclang %>" kind="<%= captions.kind %>" label="<%= captions.label %>" />
+      </video>
+    </script>
+
+    <script type="text/template" id="video-item-template">
+      <li class="list-group-item">
+        <%= title %>
+        <span class="badge">
+          <%= video.time %>
+        </span>
+      </li> 
+    </script>
+  </body>
+</html>
