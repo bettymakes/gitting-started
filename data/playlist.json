@@ -4,10 +4,10 @@
       "id": "001",
       "title": "Objectives",
       "video": {
-        "source": "http://bettymakes.com/assets/videos/git/01-Objectives.mp4",
+        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/learning-modules/git/01-objectives.mp4",
         "type": "video/mp4",
         "captions": {
-          "src": "captions/vid1-captions.vtt",
+          "src": "captions/01-objectives.vtt",
           "srclang": "en",
           "kind": "subtitles",
           "label": "English"
@@ -19,60 +19,60 @@
       "id": "002",
       "title": "What is Git?",
       "video": {
-        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/may2015/w11-deploying-to-ghpages.mp4",
+        "source": "",
         "type": "video/mp4",
         "captions": {
-          "src": "captions/vid1-captions.vtt",
+          "src": "",
           "srclang": "en",
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "5:00"
+        "time": "0:00"
       }
     },
     {
       "id": "003",
       "title": "History of Git",
       "video": {
-        "source": "http://bettymakes.com/assets/videos/git/01-Objectives.mp4",
+        "source": "",
         "type": "video/mp4",
         "captions": {
-          "src": "captions/vid1-captions.vtt",
+          "src": "",
           "srclang": "en",
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "1:20"
+        "time": "0:00"
       }
     },
     {
       "id": "004",
       "title": "Git Workflow",
       "video": {
-        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/may2015/w11-deploying-to-ghpages.mp4",
+        "source": "",
         "type": "video/mp4",
         "captions": {
-          "src": "captions/vid1-captions.vtt",
+          "src": "",
           "srclang": "en",
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "5:00"
+        "time": "0:00"
       }
     },  
     {
       "id": "005",
       "title": "Example Workflow with Command Line",
       "video": {
-        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/may2015/w11-deploying-to-ghpages.mp4",
+        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/learning-modules/git/05-local-git-command-line.mp4",
         "type": "video/mp4",
         "captions": {
-          "src": "captions/vid1-captions.vtt",
+          "src": "",
           "srclang": "en",
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "5:00"
+        "time": "6:52"
       }
     },  
     {
@@ -82,27 +82,27 @@
         "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/may2015/w11-deploying-to-ghpages.mp4",
         "type": "video/mp4",
         "captions": {
-          "src": "captions/vid1-captions.vtt",
+          "src": "",
           "srclang": "en",
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "5:00"
+        "time": "0:00"
       }
     },
     {
       "id": "007",
       "title": "Example Workflow with GitHub Desktop Application",
       "video": {
-        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/may2015/w11-deploying-to-ghpages.mp4",
+        "source": "",
         "type": "video/mp4",
         "captions": {
-          "src": "captions/vid1-captions.vtt",
+          "src": "",
           "srclang": "en",
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "5:00"
+        "time": "0:00"
       }
     },   
     {
@@ -117,7 +117,7 @@
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "5:00"
+        "time": "0:00"
       }
     }, 
     {
@@ -132,7 +132,7 @@
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "5:00"
+        "time": "0:00"
       }
     },
     {
@@ -147,7 +147,7 @@
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "5:00"
+        "time": "0:00"
       }
     }         
   ]  
