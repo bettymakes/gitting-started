@@ -7,6 +7,14 @@
 @import '../../bower_components/neat/app/assets/stylesheets/_neat.scss';
 
 
+.playlist {
+  &:hover {
+    cursor: pointer;
+  }
+  li:hover {
+    background: #ccc;
+  }
+}
 
 .video-container {
   background: black;
