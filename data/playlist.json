@@ -19,7 +19,7 @@
       "id": "002",
       "title": "What is Git?",
       "video": {
-        "source": "",
+        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/learning-modules/git/02-what-is-git.mp4",
         "type": "video/mp4",
         "captions": {
           "src": "",
@@ -27,14 +27,14 @@
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "0:00"
+        "time": "5:42"
       }
     },
     {
       "id": "003",
       "title": "History of Git",
       "video": {
-        "source": "",
+        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/learning-modules/git/03-git-history.mp4",
         "type": "video/mp4",
         "captions": {
           "src": "",
@@ -42,12 +42,12 @@
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "0:00"
+        "time": "1:01"
       }
     },
     {
       "id": "004",
-      "title": "Git Workflow",
+      "title": "[ Coming Soon! ] - Git Workflow",
       "video": {
         "source": "",
         "type": "video/mp4",
@@ -73,81 +73,6 @@
           "label": "English"
         },
         "time": "6:52"
-      }
-    },  
-    {
-      "id": "006",
-      "title": "Intro to Github",
-      "video": {
-        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/may2015/w11-deploying-to-ghpages.mp4",
-        "type": "video/mp4",
-        "captions": {
-          "src": "",
-          "srclang": "en",
-          "kind": "subtitles",
-          "label": "English"
-        },
-        "time": "0:00"
-      }
-    },
-    {
-      "id": "007",
-      "title": "Example Workflow with GitHub Desktop Application",
-      "video": {
-        "source": "",
-        "type": "video/mp4",
-        "captions": {
-          "src": "",
-          "srclang": "en",
-          "kind": "subtitles",
-          "label": "English"
-        },
-        "time": "0:00"
-      }
-    },   
-    {
-      "id": "008",
-      "title": "Collaborating",
-      "video": {
-        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/may2015/w11-deploying-to-ghpages.mp4",
-        "type": "video/mp4",
-        "captions": {
-          "src": "captions/vid1-captions.vtt",
-          "srclang": "en",
-          "kind": "subtitles",
-          "label": "English"
-        },
-        "time": "0:00"
-      }
-    }, 
-    {
-      "id": "009",
-      "title": "Collaborating with Command Line",
-      "video": {
-        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/may2015/w11-deploying-to-ghpages.mp4",
-        "type": "video/mp4",
-        "captions": {
-          "src": "captions/vid1-captions.vtt",
-          "srclang": "en",
-          "kind": "subtitles",
-          "label": "English"
-        },
-        "time": "0:00"
-      }
-    },
-    {
-      "id": "010",
-      "title": "Collaborating with GitHug Desktop Application",
-      "video": {
-        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/may2015/w11-deploying-to-ghpages.mp4",
-        "type": "video/mp4",
-        "captions": {
-          "src": "captions/vid1-captions.vtt",
-          "srclang": "en",
-          "kind": "subtitles",
-          "label": "English"
-        },
-        "time": "0:00"
       }
     }         
   ]  
