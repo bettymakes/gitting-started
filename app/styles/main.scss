@@ -6,6 +6,15 @@
 @import '../../bower_components/bourbon/app/assets/stylesheets/_bourbon.scss';
 @import '../../bower_components/neat/app/assets/stylesheets/_neat.scss';
 
+$color-primary: #34495E;
+$color-white: #ffffff;
+$height-top-bar: 50px;
+
+$zindex-bar: 10;
+$zindex-video: 2;
+
+$gutter: 15px;
+$gutter-dbl: $gutter * 2;
 
 .playlist {
   &:hover {
@@ -31,7 +40,34 @@
   bottom: 0;
   left: 0;
   right: 0;
-  z-index: 2;
+  z-index: $zindex-video;
+}
+
+.top-bar {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: $height-top-bar;
+  background-color: $color-primary; 
+  color: $color-white;
+  z-index: $zindex-bar;
+  h1 {
+    margin: 0;
+    line-height: $height-top-bar;
+    text-transform: uppercase;
+    font-size: 2rem;
+    text-align: center;
+  }
+}
+
+.git-playlist-app {
+  .container {
+    margin-top: $height-top-bar + $gutter-dbl;
+  }
+  .panel {
+    margin-top: $gutter-dbl;
+  }
 }
 
 
