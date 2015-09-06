@@ -62,7 +62,7 @@
     },  
     {
       "id": "005",
-      "title": "Example Workflow with Command Line",
+      "title": "Git &amp; the Command Line",
       "video": {
         "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/learning-modules/git/05-local-git-command-line.mp4",
         "type": "video/mp4",
