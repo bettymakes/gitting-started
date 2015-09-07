@@ -47,9 +47,9 @@
     },
     {
       "id": "004",
-      "title": "[ Coming Soon! ] - Git Workflow",
+      "title": "Git Workflow",
       "video": {
-        "source": "",
+        "source": "http://bitmakerlabs.s3.amazonaws.com/lectures/rapid_prototyping/learning-modules/git/04-git-workflow.mp4",
         "type": "video/mp4",
         "captions": {
           "src": "",
@@ -57,7 +57,7 @@
           "kind": "subtitles",
           "label": "English"
         },
-        "time": "0:00"
+        "time": "5:24"
       }
     },  
     {
